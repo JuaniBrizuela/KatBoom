@@ -1,0 +1,4120 @@
+<REAPER_PROJECT 0.1 "6.73/linux-x86_64" 1682899216
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 2
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 4 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 12.85911208940572 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 27 31.8
+  SELECTION2 27 31.8
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1.62813850878771 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F91584C8-FCEC-315A-AC1A-E51D53244F5C}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {AC2712B6-CE52-525D-91DE-89C08C0E9B4C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {F4BE2061-FCB0-F360-008F-852E781E2C31}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4BE2061-FCB0-F360-008F-852E781E2C31}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 291 419 684 539
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.vst.so 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAEAA=
+        776t3g3wrd4AAAAAF7fROgAAAAAAAAAAAACAP85NAD++x+48AAAAAAAAAD8AAAAAAACAPwAAgD8AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {AFA6DD7A-5A8F-29C0-FD2E-B6364D6C541B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51C7BE31-5B79-AE18-615D-34AB1CAE197F}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F217A19C-7040-E9D1-262E-DFC7FC892FFB}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {B89CA79C-04A5-631A-7514-26DD7A6340C9}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 2.4
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4C000A2-A04B-6659-B425-E7A7D6F20094}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02B8BBBC-03BB-1E30-3D71-CF526907B02F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {8B8ECE82-2849-99B2-D1B4-85004F107C07}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 4.8
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BAAA285-365B-FB01-DC04-EAC6F8D2B8B9}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA4B9C57-8AEA-EF08-22D9-87D77B038BFE}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F9A40096-1A7E-C9AE-5B95-9D3488B45467}
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        e 0 90 30 60
+        E 480 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        e 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -1256.59368 0.170318 53 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 7.2
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88227DA8-B9C3-8027-3CD2-1E0E730816FA}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA6AFAFC-C985-1999-F378-9E3923FA3466}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {AEC759DF-99BA-0B42-2EBC-2C23FA7B2102}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 9.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC5C409D-5C7D-B880-1C15-306ED99989AF}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {616695E4-CD6A-A339-A487-B59911E8AD77}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {5BA058FA-218B-CC78-E451-D9AEC7A7BF7D}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AC0A71C-3B80-4BE5-D405-C2CBADFAA210}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {335D5F1C-319F-FFF7-26FD-471D42F883A9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {00BD1434-8B32-C289-97F5-3A3AA6B035BE}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 14.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51BE58D0-4574-60A5-59F0-637A56B7C0EB}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF6A9E48-6C80-3793-D3C4-800E7CF2C643}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {44654687-30B9-2363-44B9-4AA1AE970F1E}
+        E 0 90 25 60
+        e 0 90 29 60
+        E 0 90 2c 60
+        E 0 90 30 60
+        E 480 80 25 00
+        e 0 80 29 00
+        E 0 80 2c 00
+        E 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW 4437.3 0.127889 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 16.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FC21CBE-780D-2BE6-14E7-D676CF17E10B}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E311C58-9575-B777-592F-10D9F4EBA1FD}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {EFA94276-F9A8-590F-CD5A-49BAA827231E}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 19.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {113BD872-6598-A458-B7B7-727FFCB8FDB2}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {083251FA-1E19-E0C1-51DE-0BC67E6E614E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {20D7574B-65C4-05AA-C79C-65684F81E098}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 21.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0AD876E3-24AB-88A1-6472-5D829FCDFB1D}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {366F35D5-1F0F-A7D6-A75A-828098EAD9B5}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A2CDE5CD-E0AC-7F1E-6810-D610CCE6FAC9}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50DBC943-ADC2-4F8B-3339-8C7CACE62DFE}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB943B01-184C-5018-7894-E3C2B1A29D08}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {988E2694-3E34-7984-BB28-A3E08ABDE2CD}
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        e 0 90 30 60
+        E 480 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        e 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -1256.59368 0.170318 53 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 26.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {896D6327-B8F3-DDF0-6563-A508A3BF2121}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95E91B24-00AF-6025-F89E-D90F3F2B6CAE}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1C1AD416-FB66-E360-8A8E-9985E98C4B02}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 28.79999999993015
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C194A978-1D26-4D13-DB27-285FE5AF594B}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CA1CE06-EDE6-379A-57D7-5788985730DB}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {2FF20928-88B9-79C8-2021-403F76AB0821}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 31.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54E9E992-7789-E9F3-052A-401EF72993C2}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64855623-7210-FF42-3E6F-90BEC69528F0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F098FF7F-3F82-4404-F885-691EFF16CC35}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 33.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDD16ED4-113A-22A7-842F-F15A16C386BD}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {834CC891-E1E7-888A-D696-E8E0A2043D5A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {0014BE9B-04DF-4735-7AD2-641BF1537C63}
+        E 0 90 25 60
+        e 0 90 29 60
+        E 0 90 2c 60
+        E 0 90 30 60
+        E 480 80 25 00
+        e 0 80 29 00
+        E 0 80 2c 00
+        E 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW 4437.3 0.127889 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {020FAB9E-DEA1-EDDD-E636-A3F2EB6B3DE6}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42CA90EC-40B2-5986-8814-8517DFC62371}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {710086FB-7F97-E3E8-484C-0B5E4110CAEE}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002329
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15D0738A-83F5-C452-45DE-B8AA28E0FA6F}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD4AF00E-3C3E-2CE4-819F-366D1139AFDF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {490D0368-826E-F0A9-2032-D9B49C884F2A}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 40.80000000004656
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A7E5213-BE15-2D9A-E12D-ECA23586BB6A}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0447109A-591A-C1DA-FFBF-BAEF90F7A016}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {508ACB84-A8D6-C4ED-976B-EA211E13208C}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 43.20000000006985
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89147BA5-0770-1A09-E5B5-3F6589A97936}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC752E0F-0672-815B-C49D-D024F15D2B2E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {923B7630-1CF0-4EC8-821E-E77295CD2EF4}
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        e 0 90 30 60
+        E 480 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        e 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -1256.59368 0.170318 53 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 45.60000000009313
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A1669C2-32FA-FC64-D5F6-DF07D9B26374}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E9E6160-813D-143B-C1B5-EC4A7DF7618B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {8E3EEF93-E2B0-562B-70D7-EA7F5CE0D022}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2967A66-A0CE-428F-8FD6-DDDE80ADF83E}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55E7565C-9AFE-725F-9113-E882E7D50464}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1FEFF932-08A4-5274-0871-EDF078C170D0}
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 90 30 60
+        e 0 90 2c 60
+        E 0 90 29 60
+        E 480 80 30 00
+        e 0 80 2c 00
+        E 0 80 29 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -202.23 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 27 960 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 50.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B837CF4-018F-8945-1D40-B526393F9C08}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DEE1BD6-D846-1AE6-6510-52BF119E5BC5}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {8EDA8AE3-96A4-2395-6B49-E2C5457DC4C4}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 52.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72E77506-2E42-C411-CF57-DBB298DA97DA}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5E29EA7-CBB8-596C-8934-729ED460FC75}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {FCB8BCB1-1E70-E9C3-DF3E-17E623CC7D69}
+        E 0 90 25 60
+        e 0 90 29 60
+        E 0 90 2c 60
+        E 0 90 30 60
+        E 480 80 25 00
+        e 0 80 29 00
+        E 0 80 2c 00
+        E 0 80 30 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 90 30 60
+        E 0 90 25 60
+        E 0 90 29 60
+        E 0 90 2c 60
+        E 480 80 30 00
+        E 0 80 25 00
+        E 0 80 29 00
+        E 0 80 2c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW 4437.3 0.127889 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 55.20000000006985
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2BCFA41-D143-327F-3828-44C7FE5A9B0D}
+      IID 1
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0336A321-A671-97D3-0DEB-1E206003271C}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7373028E-BC37-593F-8E05-1A1BE23BB7AE}
+        e 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        e 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 90 27 60
+        E 0 90 2e 60
+        E 0 90 2b 60
+        E 480 80 27 00
+        E 0 80 2e 00
+        E 0 80 2b 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {689F72D3-EAB6-C662-7686-F2EE9EEE5816}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 390
+        VELLANE -1 100 0
+        CFGEDITVIEW -228.984111 0.170317 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 24 43 968 1043 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {45EB918B-9D6D-1DB5-3098-B89931E7F1DD}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {45EB918B-9D6D-1DB5-3098-B89931E7F1DD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 291 419 684 539
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.vst.so 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAEAA=
+        776t3g3wrd4nUrw7F7fROgAAAAAAAAAAAACAP85NAD++x+48AAAAAAAAAD8AAAAAAACAPwAAgD8AAAAAAAAAAAAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F4BC16D9-2565-2C43-964B-AC9D03D3D824}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4B595D6-CD47-E834-BDA1-0222B06A91C2}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09406CDE-966A-2FB0-87A6-F30FA39B3818}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {61E97D0E-4C7A-ED4E-B633-1B850AAAB612}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 240 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 240 90 33 60
+        E 1440 80 33 00
+        e 1440 90 31 60
+        e 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 35 60
+        E 1440 80 35 00
+        E 0 90 35 60
+        E 0 90 38 60
+        E 0 90 3c 60
+        E 3840 80 35 00
+        E 0 80 38 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 4025.944172 0.082898 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 9.59999999997672
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A6129FC-9AE1-F5DF-7FB4-9B1FC26E71D6}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6FDAC12-E11C-3DE2-BBB7-108E485A9A4F}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A4446417-A00B-1E38-D1A0-35CFBEFE3E2B}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 480 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 0 90 33 60
+        E 1440 80 33 00
+        E 1440 90 31 60
+        E 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 35 60
+        E 1440 80 35 00
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 960 80 3c 00
+        e 0 90 3c 60
+        e 480 80 3c 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 25785.425 0.075518 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 19.19999999995343
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BE0D728-14EB-3897-F29E-1FF8C293E523}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3671D83C-40E8-2126-FF6D-591277C830B0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7461A9C1-05A8-F6C0-6863-8C1A34CE3D85}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 240 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 240 90 33 60
+        E 1440 80 33 00
+        e 1440 90 31 60
+        e 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 35 60
+        E 1440 80 35 00
+        E 0 90 35 60
+        E 0 90 38 60
+        E 0 90 3c 60
+        E 3840 80 35 00
+        E 0 80 38 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 4025.944172 0.082898 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 28.79999999993015
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF32C47F-FC40-C6C2-6ED7-0250B93ADC3B}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E7E4CB1-28C9-71C1-281F-2BF55DC9A7B8}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {8FAFD17F-611C-6720-2D97-0D808EDC5CFE}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 480 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 0 90 33 60
+        E 1440 80 33 00
+        E 1440 90 31 60
+        E 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        e 0 90 35 60
+        e 1440 80 35 00
+        E 0 90 35 60
+        E 0 90 38 60
+        E 0 90 3c 60
+        E 3840 80 35 00
+        E 0 80 38 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 5547.599182 0.075518 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002329
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C91AFB90-1C0E-D5BA-67F0-2647C9CC1B8F}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12535AEE-D2D6-E10A-DC22-8003998C8FAD}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {5E5F193A-60F1-056B-5639-5E647F21B94C}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 240 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 240 90 33 60
+        E 1440 80 33 00
+        e 1440 90 31 60
+        e 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 35 60
+        E 1440 80 35 00
+        E 0 90 35 60
+        E 0 90 38 60
+        E 0 90 3c 60
+        E 3840 80 35 00
+        E 0 80 38 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 4025.944172 0.082898 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 9.6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB1E7C3D-308D-3F38-13E4-1F61A2E7E717}
+      IID 121
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B70FBAA-40FE-0182-E856-6258E2C3C9CF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {AFA61C0F-3B06-07A2-9E99-BCBDD5394464}
+        E 0 90 35 60
+        E 480 80 35 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 3c 60
+        E 2880 80 3c 00
+        E 0 90 3a 60
+        E 480 80 3a 00
+        E 0 90 37 60
+        E 480 80 37 00
+        E 0 90 33 60
+        E 1440 80 33 00
+        E 1440 90 31 60
+        E 960 80 31 00
+        E 0 90 35 60
+        E 960 80 35 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        e 0 90 35 60
+        e 1440 80 35 00
+        E 0 90 35 60
+        E 0 90 38 60
+        E 0 90 3c 60
+        E 3840 80 35 00
+        E 0 80 38 00
+        E 0 80 3c 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E8B5C135-0208-6DE6-4398-79F1D6C5A45C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 510
+        VELLANE -1 100 0
+        CFGEDITVIEW 5547.599182 0.075518 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 15 43 959 1043 0 0 0 0 16 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {7B584A20-595D-B76B-A3F8-13437DB7A073}
+    NAME FunkDrums-Kick_0
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.30501425801 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7B584A20-595D-B76B-A3F8-13437DB7A073}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A15D415-D58B-7B81-1179-DFF4DFD60BC7}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24462023-18C9-B834-AD57-C3BCA2AA7E3C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14B256A3-F55F-85B9-A9A7-89066FC6171A}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88621584-913B-4FBF-5FDA-17BC09627B87}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4430D94-BF26-7D9C-7EA9-4C3664DF48DD}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79ABCA55-AE40-79B0-BA75-36785C5EC6D6}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {163DA96A-6904-74F8-0C10-9425F37D802F}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A5CD9A5-4FD7-693F-4B75-06C183A3C149}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16574060-C36B-A9D7-8109-859BBD3F5E6B}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2859675-6A4D-B079-F026-1A10000500BA}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F507051-DCDE-958C-6B20-400135C3392A}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF780DDE-BEC2-9D06-C770-245A803F7878}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4358AA9D-17CF-9C17-247F-EAF840720A65}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {465639D5-5B1E-EF80-5EA4-FCF8975689A5}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5DC9DCA-C211-0B6E-A5FB-71657E049480}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {496D9036-5EAF-94B7-5D47-29F13A842C55}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A5F0330-1AFC-3DD3-97A5-734E76C4A6E4}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {488F1C13-785A-5D90-4360-75286EEDCD2D}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F0F2EB6-5530-460D-5688-BE8C38268F2C}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C04CEA91-B7FF-8D9D-C79D-83B472A5D848}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87FC0249-72C7-082E-2BB2-8C5C8D44E304}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F59E4E9F-F296-382D-64E0-D4A6036CC41D}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55AAA9D2-1CA2-6392-9A27-AFE38511F0AD}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62C8826F-8E78-9345-8F06-A91154274E76}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06C2C766-B230-6BDC-A4C1-BBD0AA752E46}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2023D19-7160-AE01-6FA8-9C5F2263B50D}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002329
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1968EFF8-545E-C507-9175-C135B299A59F}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59F1977C-84A6-D981-F5B7-F21D035BD56E}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.80000000004656
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26A41A96-29F5-DECC-C813-DE0C74A82791}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2D006F7-448B-37C3-DA71-F6CFEE023AA8}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC75AA1F-EEC7-D866-3678-CB8E1772B290}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E51C77D-CC45-60E2-4826-C80623CBB914}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97D75CD5-3B2B-0FA7-DCCE-7A728A7EA5A2}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED6B4670-072E-9FFF-8FAA-73B494DBF680}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83D84FA1-DEC5-3C5B-E83C-AD8197C01876}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {891BEA8F-E6A2-97A5-85B6-BB4361C084CC}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC6D8124-3DC3-C4A1-9A27-75EF882ADF4F}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2644EB13-EB81-8FF5-7C2B-192483F84C10}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E41581E-7CCE-4B7F-14A5-859043A524B9}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {354459F9-CE6E-4890-43C9-7195EB760975}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {298C5E6B-EAE6-3C2E-6DDA-85023306B618}
+      IID 160
+      NAME FunkDrums-Kick_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27D66E2A-22A1-BB74-BE20-CDC0D69B4490}
+      <SOURCE WAVE
+        FILE "FunkDrums-Kick_0.wav"
+      >
+    >
+  >
+  <TRACK {1E859BC0-2AB1-19F9-BC1B-3A5DB35BEB97}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.41604610749285 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1E859BC0-2AB1-19F9-BC1B-3A5DB35BEB97}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DD00817-3A6A-B1CF-21F6-BB5CC504A513}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69B78DA2-8708-21BF-6A62-5641A94F0E15}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8EF87D6-8DBB-F9DB-1342-2C50FC0C6281}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BC11766-84F2-456F-4EAA-57052A0F60A8}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7D1C43C-D126-DEBB-B960-4D358E0B8AF1}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCAAD87B-50EC-7695-C2AE-F94DC322AEA8}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {278312B6-C518-AC34-E036-B73457EB6CA4}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BA8619D-8B49-F52D-9737-5BB2AD9BE013}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECE3884A-86C3-88B3-9178-ECFDC7B0A3B4}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7882DD6-6710-0D6C-90EB-100822E1A81C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F5BE292-AE02-A2FA-1924-4CCF48622B20}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB2B443A-97B9-254D-3936-407832FCC771}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4814BD4A-03E1-56D9-70BB-FD8514432FEB}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE017472-188E-989D-1E4C-4A0E54F5A5A5}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B16EE845-EFA6-C8B6-907D-DC2A933E75F3}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD6EAEDC-5198-7720-8B9E-C8C797BBBBD9}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C17E0E8-4CB2-7E1D-A460-2650F94F9DC9}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E720DBE4-2743-3DEE-5BB8-4247BFB71451}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D08F6FA-10E1-FB4F-0476-36F2492E0343}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80B613D8-A35E-3907-6529-C2C535324923}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5ECA6BE7-0FAB-381F-6B71-709105B9FEB0}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D72B3CC-2B72-3453-16E1-D8B78A812A73}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93D1E1EC-5DBB-C072-3B51-42D2F8C32790}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B0F0181-FFDC-6F65-13F5-468C380432E8}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCB3CE9C-2656-316D-14AA-D64CBFAE1472}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1988A03C-584B-849A-723C-9C21DA7AF073}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002329
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BEB8A8B-E320-54D0-5E2B-3C292C755D7A}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B259D84-0DB6-3F7D-0AC0-7264B8C9003F}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.80000000004656
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C261EE8-3DC9-C458-81FE-8C55C40F374A}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BD82E14-9FBF-76B1-439C-6E62A9B49184}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFB22A6D-FAB6-16B4-8BA4-D6400DA3BE6E}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30D24A29-2EC0-A22B-0266-EA5C6A6D100D}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4343C738-0A79-7232-EE18-ED4C84815815}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C7734B3-322C-A853-3FC9-1737E113078C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE72ADDF-9B20-BF06-F5BC-C09212C22C47}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D4E133A-9612-8EBA-7FC9-31DA02171F90}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C6241EF-A438-5D34-DFF9-86789B167866}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB031FC6-AC46-FE7C-11BB-766071665546}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {105FAA23-5306-20EF-D237-DBDEEC67E821}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2823173E-3B5A-1392-DAB5-BFCBFF3E0C87}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7D5BA6C-8EF3-74FB-0F64-DB26CAE8E1CC}
+      IID 162
+      NAME FunkDrums-Snare_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA67F2B7-A3C6-11DB-6B12-D4BEEDF0715C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Snare_2.wav"
+      >
+    >
+  >
+  <TRACK {53AED406-B6C3-19EA-1941-A6B307CB759D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.27991910429543 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {53AED406-B6C3-19EA-1941-A6B307CB759D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {100FA791-C4BA-ABBB-A2D3-56487877AE51}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F29AECC-7869-932D-8B0F-70163898FE53}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AC192F7-F6C9-6989-950F-22189CE86B64}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B87D08AF-524D-DE5E-1827-06DFB01ACA73}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75813F26-4AC4-367D-607F-6CB7EB8ED177}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E9104BD-9A9E-D924-8AC2-302591C62D76}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7D0579A-A412-F349-F935-BF0AEDD6DC69}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25CE9B65-74CD-7DEE-390A-B3A9CA5AEDC0}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6052E1E6-AC20-E86A-DD9F-FB146CF602EF}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3596789-43F9-8F89-4636-A7F395D32391}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D299480C-4952-79DE-A7F6-7FE1711E743E}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2116B0E-568D-A8B8-0CE8-F189D4C32E0B}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DB9A117-25B6-EEF4-BA39-DD4E38ECF7EE}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB7DC1DD-AF1E-E0E0-5F19-4772D9007301}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD54C5D0-07BE-BBF3-B414-58C7BD5DCB98}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C39A2D9-781B-4A80-A798-D7D4D0E02ADF}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F48FAF7D-6FF8-3B18-233F-486A86700153}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FF87FD4-7A63-5301-2E22-216F7478F28C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD2A5895-BE58-0973-310F-A41A9A669FB9}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91EAE7CB-3632-3C50-E58B-764C0988C16E}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB1F69F4-DFA5-12AA-F73D-093766B79D36}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0A0A6DE-03AA-289F-90DE-ECB47B809F84}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D4A28B7-E441-0EE9-01F5-AF6CEF795A25}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43B5A3EF-299A-0293-F1E1-DEC4C54D1F5A}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D18AAA9-173F-C90A-51BD-0F62CD18AD40}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0E8D4D3-9A2C-C4D2-2CB3-2720D9B34B31}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.40000000002329
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07FF8F34-06CF-9BEE-F856-CFCF9C055978}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DB6063B-288B-CF68-789D-A0CC07689856}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.80000000004656
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1463A76-23F8-46F8-746A-B1DF67020FD4}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0B46937-4F97-A15B-5730-7FC1F4C10FBC}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {152B69F9-F2F8-37C1-BF04-F43294804DB1}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C986E39-955C-2941-A0AF-8E3CA48828E9}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.59999999997672
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF4D5904-78E1-6253-608C-5870B43651D2}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20A434AB-A3A3-8BCE-8D69-C096E8BC9B0B}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC7C1B01-F830-F6D8-6D9C-139B03AC1662}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C14A478-E3FF-FACB-2467-E18E351C228C}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.40000000002328
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB791AA0-BB03-B95D-ABC5-409CD3D1CDF4}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B553DA5F-F9E2-85C1-56D3-713C06CF18FF}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.80000000004657
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A95BF4EF-2DE0-F2CE-1B7F-C9559644112F}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09742CAA-B1CC-FE56-4542-58EFF3E0EE24}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.19999999995343
+      SNAPOFFS 0
+      LENGTH 2.4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {255FEF7C-115A-1119-D72B-92A4DA04D43A}
+      IID 161
+      NAME "FunkDrums-Hat Pedal_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F81A9E6-DFD2-F266-9F77-849E359D1254}
+      <SOURCE WAVE
+        FILE "FunkDrums-Hat Pedal_8.wav"
+      >
+    >
+  >
+>
